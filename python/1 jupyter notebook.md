@@ -21,6 +21,13 @@ jupyter notebook生成的文件格式为.ipynb
 pip install jupyter
 ```
 
+#### windows下安装Anaconda和jupyter notebook
+1. 去anaconda官网下载anaconda安装包
+2. 打开开始-菜单-anaconda-prompt，执行`conda list`，`conda upgrade --all`,`conda install jupyter notebook`
+3. 执行`jupyter notebook --generate-config`，打印出jupyter配置文件路径
+4. 修改配置文件：将`c.NotebookApp.notebook_dir`修改为自己想要的路径
+5. 执行`jupyter notebook`，打开notebook，自动打开的路径就是上面配置的路径
+
 
 ### 3. 怎么使用jupyter
 
