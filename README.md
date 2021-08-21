@@ -95,6 +95,16 @@
 - [texar][37] - Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow.
 - [ComplexEventExtraction][38] - 中文复合事件抽取，包括条件事件、因果事件、顺承事件、反转事件等事件抽取，并形成事理图谱
 
+
+## 博主
+
+### 文章
+
+### 视频
+[正弦啵 - 哔哩][60]  
+
+
+
 [1]: https://www.bilibili.com/video/BV1yK4y1E7n4
 [2]: https://github.com/fighting41love/funNLP
 [3]: https://github.com/observerss/textfilter
@@ -154,3 +164,4 @@
 [57]: http://web.stanford.edu/class/cs224n/
 [58]: https://github.com/DSKSD/DeepNLP-models-Pytorch
 [59]: https://github.com/graykode/nlp-tutorial
+[60]: https://space.bilibili.com/244865478
