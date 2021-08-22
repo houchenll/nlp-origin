@@ -26,6 +26,9 @@
 
 ## github
 
+### 课程
+- [nlp_course][61] - YSDA course in Natural Language Processing
+
 ### 整理汇集
 - [funNLP][2] - 中文NLP资源库，在入门到熟悉NLP的过程中，用到了很多github上的包，遂整理了一下，分享在这里
 - [awesome-nlp][20] - A curated list of resources dedicated to Natural Language Processing (NLP)
@@ -81,6 +84,9 @@
 - [awesome-nlg][47] - A curated list of resources dedicated to Natural Language Generation (NLG)
 - [文本生成控制][46]
 - [seq2seq-couplet][53] - 自动对对联
+
+### 面试
+- [ML-NLP][62] - 此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识
 
 ### 其它
 - [ls0f/phone][5] - 中国国内手机号码归属地库
@@ -165,3 +171,5 @@
 [58]: https://github.com/DSKSD/DeepNLP-models-Pytorch
 [59]: https://github.com/graykode/nlp-tutorial
 [60]: https://space.bilibili.com/244865478
+[61]: https://github.com/yandexdataschool/nlp_course
+[62]: https://github.com/NLP-LOVE/ML-NLP
