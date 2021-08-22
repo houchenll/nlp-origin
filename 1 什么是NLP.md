@@ -78,10 +78,16 @@ NLP, nature language process，自然语言处理。
 * 关系语义（单个句子的语义）
 * 话语（超越单个句子的语义）
 * 更高级别的 NLP 应用程序
+* 面试要求
+  * 任务：文本分类，NER，文本生成，内容提取，语义抽取，文本摘要，机器阅读理解等、智能对话、问答系统、文本分析、翻译、知识图谱
+  * 项目：对话机器人、知识图谱构建、推荐算法
 
 
 ## 常见工具
 * 分词器
+* [scikit-learn: machine learning in Python](https://scikit-learn.org/)
+* 深度学习框架：pytorch、TensorFlow、Keras
+* BERT
 
 
 ## 应用
@@ -103,8 +109,15 @@ NLP, nature language process，自然语言处理。
 * 深度学习
   * CNN
   * RNN
-  * transformer
+  * Transformer
   * bert
+  * LSTM
+  * Xlnet
+  * DNN
+* 算法加速
+  * 剪枝、稀疏、量化
+* 框架
+  * Tensorflow、Pytorch、Keras
 * 文本预处理
   * 文本获取
   * 流程：去除噪声、词干提取、词性标注、分词
