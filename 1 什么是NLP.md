@@ -140,3 +140,4 @@ NLP, nature language process，自然语言处理。
 
 ## 参考
 * 贪心学院课程
+* [Natural language processing - Wikipedia](https://en.wikipedia.org/wiki/Natural_language_processing)
