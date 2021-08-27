@@ -98,6 +98,10 @@ NLP, nature language process，自然语言处理。
 * 法律
 
 
+## 前提技术
+* 熟悉linux系统
+
+
 ## 核心技术
 * 机器学习
   * 逻辑回归(手推)

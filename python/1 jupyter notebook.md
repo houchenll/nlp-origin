@@ -18,7 +18,7 @@ jupyter notebook生成的文件格式为.ipynb
 ### 2. 怎么安装配置jupyter
 
 ```bash
-pip install jupyter
+pip3 install jupyter
 ```
 
 #### windows下安装Anaconda和jupyter notebook
