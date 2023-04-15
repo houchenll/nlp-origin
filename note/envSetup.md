@@ -1,11 +1,11 @@
-1. 安装xcode
+## 1. 安装xcode
 
-2. 安装 homebrew
+## 2. 安装 homebrew
   brew install gcc
   brew install cmake
   brew install wget
 
-3. 安装 conda
+## 3. 安装 & 设置 conda
   打开 https://github.com/conda-forge/miniforge , 下载 OS X arm64
   cd ~/Downloads
   bash Miniforge3-MacOSX-arm64.sh
@@ -15,7 +15,6 @@
   再次进入conda base env时执行 conda activate
   重启终端
 
-4. 设置 ml 环境
   conda create --name ml
     /Users/ll/env/miniforge3/envs/ml
       To activate this environment, use
@@ -28,14 +27,17 @@
   conda install -y python=3.8.6
   conda install -y pandas matplotlib scikit-learn jupyterlab
 
-5. 安装 tensorflow
+  修改启动时默认环境  
+  修改 `.bash_profile`，添加 `conda activate pytorch`  
+
+## 4. 安装 tensorflow
   cd env
   mkdir tf-test
   cd tf-test
   
   打开 https://developer.apple.com/metal/tensorflow-plugin/
 
-## 6. 安装 pytorch
+## 5. 安装 pytorch
   1. 安装 conda，卸载anaconda, 选择 安装miniforge
   2. 创建 pytorch 环境
     conda create -n pytorch python=3.10
