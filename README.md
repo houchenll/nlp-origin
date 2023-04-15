@@ -8,7 +8,7 @@
 
 #### 基础
 * [《PyTorch深度学习实践》- 刘二大人](https://www.bilibili.com/video/BV1Y7411d7Ys/)
-* [动手学深度学习 PyTorch版 - 视频教程 - 李沐](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)、[动手学深度学习 - 在线电子书](http://zh.d2l.ai/)、[动手学深度学习 - github](https://github.com/d2l-ai/d2l-zh)
+* [动手学深度学习PyTorch版 - B站视频课程 - 李沐](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)、[动手学深度学习 - 在线电子书](http://zh.d2l.ai/)、[动手学深度学习 - github](https://github.com/d2l-ai/d2l-zh)
 
 #### 进阶
 * [《深度学习》- 伊恩·古德费洛](https://book.douban.com/subject/27087503/)
